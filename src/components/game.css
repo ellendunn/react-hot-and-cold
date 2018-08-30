@@ -1,0 +1,17 @@
+
+.game-display {
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+  border-radius: 8px;
+}
+
+h1 {
+  margin-left: auto;
+  margin-right: auto
+}
+
+
+h2 {
+  margin: 0px;
+}
